@@ -1,0 +1,2 @@
+# friedChickenRepository
+The Repository (yes)
